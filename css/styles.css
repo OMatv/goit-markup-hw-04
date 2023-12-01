@@ -424,7 +424,7 @@ span {
     height: 40px;
 
     }
- .sosial-list-link {
+ .social-list-link {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -617,7 +617,7 @@ span {
     height: 24px;
 }
 
-.foter-soc-list-link {
+.footer-soc-list-link {
     display: flex;
     background-color: #4D5AE5;
     border-radius: 50%;
