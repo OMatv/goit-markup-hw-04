@@ -463,7 +463,7 @@ span {
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.portfolio-list-item:hover .overlay {
+.portfolio-list-item:hover {
     box-shadow: 0px 1px 6px
     rgba(46, 47, 66, 0.08), 
     0px 1px 1px
@@ -490,7 +490,6 @@ span {
     font-style: normal;
     font-weight: 400;    
 }
-
 
 .container-portfolio-text {
     padding: 32px 16px;
