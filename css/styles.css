@@ -202,8 +202,7 @@ span {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 120px;
-    
+        
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -282,18 +281,24 @@ span {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 264px;
     height: 112px;
     background-color: #f4f4fd;
     border-radius: 4px;
-    margin-bottom: 8px;
+    border: 1px solid #8E8F99;
+    gap: 24px;
+    margin-bottom: 8px;     
+}
+
+.ic-sect-ben {
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    width: 64px;
+    height: 64px;
 }
 
 .benefits-list {
-    display: flex;
-    gap: 24px;
-}
-
-.menu-benefits-icon {
     display: flex;
     gap: 24px;
 }
@@ -545,8 +550,7 @@ span {
 
     text-align: left;
     font-style: normal;
-    padding-top: 32px;
-    margin-bottom: 8px;
+     margin-bottom: 8px;
     }
 
 .portfolio-list-text {
